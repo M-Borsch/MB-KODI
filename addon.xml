@@ -19,10 +19,8 @@
                 [B]1.0:[/B]
                 - Original version of the M-Borsch repo
         </news>
-        <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
-        </assets>
         <license>GPLv2</license>
         <website>http://borsch.ca</website>
         <source>https://github.com/M-Borsch/repository.kodi.mb</source>
