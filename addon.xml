@@ -9,7 +9,7 @@
     <extension point="xbmc.addon.repository" name="repository.kodi.mb">
         <info compressed="false">https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/M-Borsch/plugin.program.orderfavourites/</datadir>
+        <datadir zip="true">https://github.com/kodi-game/repository.kodi.game/raw/master/release/</datadir>
     </extension>
 
     <extension point="xbmc.addon.metadata">
