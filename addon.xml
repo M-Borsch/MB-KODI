@@ -7,8 +7,8 @@
         <import addon="xbmc.addon" version="15.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="repository.kodi.mb">
-        <info compressed="false">https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/addons.xml.md5</checksum>
+        <info compressed="false">https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/main/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/main/addons.xml.md5</checksum>
         <datadir zip="true">https://github.com/M-Borsch/repository.kodi.mb/</datadir>
     </extension>
 
@@ -20,7 +20,6 @@
                 [B]1.0:[/B]
                 - Original version of the M-Borsch MB-Kodi repo
         </news>
-            <disclaimer>Information published on or related to MB-Kodi® repository is accurate and correct to our knowledge, however, there may be omissions, errors, or mistakes. Content published on or related to MB-Kodi is for informational purposes only. By continuing to use these services, you agree to the Terms and Conditions otlined in the ReadMe file. </disclaimer>
 		<assets>
 			<icon>icon.png</icon>
 			<fanart>fanart.jpg</fanart>
