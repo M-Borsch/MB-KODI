@@ -13,7 +13,7 @@ Information published on or related to MB-Kodi® repository is accurate and corr
 
 Terms and Conditions / Disclaimer
 
-This disclaimer ("Disclaimer") is a legally binding agreement between you ("user," "visitor," "you" or "your") and this repository ("MB-Kodi", "we," "our," or "us"). It sets forth the general guidelines, disclosures, and terms of your use of this repository ("reposiiotroy", "addons", "services," "products," "information," or "content") operated by MB-Kodi.
+This disclaimer ("Disclaimer") is a legally binding agreement between you ("user," "visitor," "you" or "your") and this repository ("MB-Kodi", "we," "our," or "us"). It sets forth the general guidelines, disclosures, and terms of your use of this repository ("repository", "addons", "plugins", "services," "products," "information," or "content") operated and/or offered by MB-Kodi.
 
 Please read this disclaimer carefully before continuing to use this repository. Do not access and use the repository if you do not agree to the terms of this disclaimer. By using this repository or its services, you acknowledge that you have thoroughly read and also understand the terms of this disclaimer and hereby agree to be bound thereof.
 
