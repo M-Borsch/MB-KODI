@@ -14,6 +14,7 @@
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Install add-ons from MB-Kodi</summary>
         <description lang="en_GB">This repository is for development builds of MB-Kodi Addons.</description>
+	<disclaimer>Information published on or related to MB-Kodi® repository is accurate and correct to our knowledge, however, there may be omissions, errors, or mistakes. Content published on or related to MB-Kodi is for informational purposes only. By continuing to use these services, you agree to the Terms and Conditions outlined in the ReadMe file. </disclaimer>
         <news>
                 [COLOR lavender][B]M-Borsch Repository[/B][/COLOR]
                 [B]1.0:[/B]
