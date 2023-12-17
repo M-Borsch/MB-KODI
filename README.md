@@ -1,2 +1,2 @@
 # repository.kodi.mb
-Repository of Kodi Addons
+Repository of MB Kodi Addons
