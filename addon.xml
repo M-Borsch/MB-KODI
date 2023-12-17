@@ -6,7 +6,29 @@
     <requires>
         <import addon="xbmc.addon" version="15.0.0"/>
     </requires>
+    <extension point="xbmc.addon.repository" name="repository.kodi.db"><?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kodi.mb"
+        name="MB-Kodi Repository"
+        version="1.0.0"
+        provider-name="M-Borsch">
+    <requires>
+        <import addon="xbmc.addon" version="15.0.0"/>
+    </requires>
     <extension point="xbmc.addon.repository" name="repository.kodi.db">
+        <info compressed="false">https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/M-Borsch/repository.kodi.db/rawb/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Install add-ons from M-Kodi</summary>
+        <description lang="en_GB">This repository is for builds of M-Borsch Kodi Addons.</description>
+        <license>GPLv2</license>
+        <website>http://borsch.ca</website>
+        <source>https://github.com/M-Borsch/repository.kodi.mb</source>
+        <nofanart>true</nofanart>
+        <platform>all</platform>
+    </extension>
+</addon>
         <info compressed="false">https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/addons.xml.md5</checksum>
         <datadir zip="true">https://github.com/M-Borsch/repository.kodi.db/rawb/</datadir>
