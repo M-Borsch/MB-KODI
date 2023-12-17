@@ -7,9 +7,9 @@
         <import addon="xbmc.addon" version="15.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="repository.kodi.mb">
-        <info compressed="false">https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/Releases/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/Rleases/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/M-Borsch/repository.kodi.mb/Rleases/raw/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/main/Releases/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/main/Rleases/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/M-Borsch/repository.kodi.mb/main/Rleases/raw/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Install add-ons from MB-Kodi</summary>
