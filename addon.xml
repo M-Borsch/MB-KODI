@@ -12,7 +12,7 @@
         <datadir zip="true">https://github.com/M-Borsch/repository.kodi./rawb/master/release/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Install add-ons from MB-Borsch</summary>
+        <summary lang="en_GB">Install add-ons from M-Borsch</summary>
         <description lang="en_GB">This repository is for development builds of M-Borsch Kodi Addons.</description>
         <license>GPLv2</license>
         <website>http://borsch.ca</website>
