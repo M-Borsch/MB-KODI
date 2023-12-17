@@ -1,5 +1,6 @@
 # repository.kodi.mb
 Repository of MB Kodi Addons
+![icon](https://github.com/M-Borsch/repository.kodi.mb/blob/main/icon.png)  
 WARNING! - This repository is still under development - DO NOT USE
 
 Information published on or related to MB-Kodi® repository is accurate and correct to our knowledge, however, there may be omissions, errors, or mistakes. Content published on or related to MB-Kodi is for informational purposes only. By continuing to use these services, you agree to the following Terms and Conditions. 
