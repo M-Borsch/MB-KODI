@@ -19,8 +19,6 @@
         <source>https://github.com/M-Borsch/repository.kodi.mb</source>
         <nofanart>true</nofanart>
         <platform>all</platform>
-        <assets>
         <icon>icon.png</icon>
-        </assets>
     </extension>
 </addon>
