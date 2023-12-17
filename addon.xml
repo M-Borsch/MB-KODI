@@ -14,6 +14,11 @@
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Install add-ons from M-Borsch</summary>
         <description lang="en_GB">This repository is for development builds of M-Borsch Kodi Addons.</description>
+        <news>
+                [COLOR lavender][B]M-Borsch Repository[/B][/COLOR]
+                [B]1.0:[/B]
+                - Original version of the M-Borsch repo
+        </news>
         <license>GPLv2</license>
         <website>http://borsch.ca</website>
         <source>https://github.com/M-Borsch/repository.kodi.mb</source>
