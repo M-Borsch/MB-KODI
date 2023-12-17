@@ -11,7 +11,6 @@
         <checksum>https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/main/addons.xml.md5</checksum>
         <datadir zip="true">https://github.com/M-Borsch/repository.kodi.mb/raw/main</datadir>
     </extension>
-
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Install add-ons from MB-Kodi</summary>
         <description lang="en_GB">This repository is for development builds of MB-Kodi Addons.</description>
