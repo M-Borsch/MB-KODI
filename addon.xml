@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodi.mb"
-        name="MB-Kodi add-on repository"
+        name="MB-Kodi Repository"
         version="1.0.0"
         provider-name="M-Borsch">
     <requires>
@@ -12,12 +12,20 @@
         <datadir zip="true">https://github.com/M-Borsch/repository.kodi.db/rawb/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Install add-ons from M-Borsch</summary>
-        <description lang="en_GB">This repository is for development builds of M-Borsch Kodi Addons.</description>
+        <summary lang="en_GB">Install add-ons from MB-Kodi</summary>
+        <description lang="en_GB">This repository is for development builds of MB-Kodi Addons.</description>
+        <news>
+                [COLOR lavender][B]M-Borsch Repository[/B][/COLOR]
+                [B]1.0:[/B]
+                - Original version of the M-Borsch MB-Kodi repo
+        </news>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
         <license>GPLv2</license>
         <website>http://borsch.ca</website>
         <source>https://github.com/M-Borsch/repository.kodi.mb</source>
-        <nofanart>true</nofanart>
         <platform>all</platform>
     </extension>
 </addon>
