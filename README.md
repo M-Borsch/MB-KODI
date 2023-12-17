@@ -17,7 +17,7 @@ This disclaimer ("Disclaimer") is a legally binding agreement between you ("user
 
 Please read this disclaimer carefully before continuing to use this repository. Do not access and use the repository if you do not agree to the terms of this disclaimer. By using this repository or its services, you acknowledge that you have thoroughly read and also understand the terms of this disclaimer and hereby agree to be bound thereof.
 
-Disclaimer
+General Disclaimer
 
 The information or content displayed on this website/repository/addon is the intellectual property of the owner of MB-Kodi. You may not reuse, republish, or reprint such information or content without our consent.
 
