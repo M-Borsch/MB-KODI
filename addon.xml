@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodi.mb"
-        name="M-Borsch add-on repository"
+        name="MB-Kodirepository"
         version="1.0.0"
         provider-name="M-Borsch">
     <requires>
@@ -9,15 +9,15 @@
     <extension point="xbmc.addon.repository" name="repository.kodi.mb">
         <info compressed="false">https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/master/release/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/master/release/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/M-Borsch/repository.kodi./rawb/master/release/</datadir>
+        <datadir zip="true">https://github.com/M-Borsch/repository.kodi.mb/rawb/master/release/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Install add-ons from M-Borsch</summary>
-        <description lang="en_GB">This repository is for development builds of M-Borsch Kodi Addons.</description>
+        <summary lang="en_GB">Install add-ons from MB-Kodi</summary>
+        <description lang="en_GB">This repository is for development builds of MB-Kodi Addons.</description>
         <news>
                 [COLOR lavender][B]M-Borsch Repository[/B][/COLOR]
                 [B]1.0:[/B]
-                - Original version of the M-Borsch repo
+                - Original version of the M-Borsch MB-Kodi repo
         </news>
             <disclaimer>Use at your own risk!</disclaimer>
 		<assets>
