@@ -4,7 +4,7 @@
 Repository of MB-Kodi Addons
 
 - <a href="https://github.com/M-Borsch/repository.kodi.mb/releases/download/MB-Kodi-Repository-v1.0/repository.kodi.mb-main.zip">Download MB-Repo</a>
-- 
+
 Program Addon: "Order Favourites"
 - an addon that allows you to easily re-order your favourites. Works in Confluence skin.
 
