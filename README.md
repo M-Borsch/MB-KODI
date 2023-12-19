@@ -6,6 +6,7 @@ Repository of MB-Kodi Addons
 - The repo is located at https://m-borsch.github.io/MB-KODI/
 
 Version 3.0 of the Repo
+- This is the first "non-developmental" release of the repository
 -  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-3.0.zip">Download MB-Repo (zip file)</a>
 
 Version 2.1 of the Repo
@@ -23,8 +24,7 @@ Program Addon: "Order Favourites"
 - an addon that allows you to easily re-order your favourites. Works in all skins including the Confluence skin.
 
 Version 1.0.0 of the Repo
--  <a href="https://m-borsch.github.io/repository.kodi.mb/repository.kodi.mb-1.0.0.zip">Download MB-Repo (zip file)</a>
-
+- NO LONGER AVAILABLE
 Program Addon: "Order Favourites"
 - an addon that allows you to easily re-order your favourites. Works in all skins including the Confluence skin.
 
