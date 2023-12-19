@@ -1,7 +1,7 @@
 # MB-KODI
 ![icon](https://github.com/M-Borsch/MB-KODI/blob/main/icon.png) 
 
-Repository of MB-Kodi Addons
+# Repository of MB-Kodi Addons
 
 - The repo release webpage is located at https://m-borsch.github.io/MB-KODI/
 
@@ -9,6 +9,7 @@ Version 3.0 of the Repo
 - This is the first "non-developmental" release of the repository
 -  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-3.0.zip">Download MB-Repo (zip file)</a>
 
+----------------------------------------------------------------------------------------------------------
 Version 2.1 of the Repo - Developmental
 -  <a href="https://m-borsch.github.io/MB-KODI/repository.kodi.mb-2.1.zip">Download MB-Repo (zip file)</a>
 
