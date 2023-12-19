@@ -35,6 +35,9 @@ Program Addon: "Order Favourites"
 - an addon that allows you to easily re-order your favourites. Works in all skins including the Confluence skin.
 
 ------------------------------------------------------------------------------------------------------------------
+> [!IMPORTANT]
+> MB-KODI Terms and Conditions / Dislaimer
+
 Information published on or related to MB-KODI® repository is accurate and correct to our knowledge, however, there may be omissions, errors, or mistakes. Content published on or related to MB-KODI is for informational purposes only. By continuing to use these services, you agree to the following Terms and Conditions. 
 
 Terms and Conditions / Disclaimer
