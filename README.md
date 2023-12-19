@@ -12,6 +12,10 @@ Version 3.0 of the Repo
 ----------------------------------------------------------------------------------------------------------
 ![CAUTION]
 These are Developmental releases and may not function propperly
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
 Version 2.1 of the Repo - Developmental
 -  <a href="https://m-borsch.github.io/MB-KODI/repository.kodi.mb-2.1.zip">Download MB-Repo (zip file)</a>
 
