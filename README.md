@@ -1,4 +1,4 @@
-# repository.kodi.mb
+# MB-KODI
 ![icon](https://github.com/M-Borsch/repository.kodi.mb/blob/main/icon.png) 
 
 Repository of MB-Kodi Addons
