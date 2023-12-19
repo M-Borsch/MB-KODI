@@ -8,7 +8,7 @@
 > [!NOTE]
 > (Latest) - This is the latest version of the MB-KODI Repository
 
-Version 3.0 of the Repo
+Version 3.0 of the Repo :sunglasses:
 - This is the first "non-developmental" release of the repository
 -  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-3.0.zip">Download MB-Repo (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
