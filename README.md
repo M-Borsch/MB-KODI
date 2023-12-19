@@ -9,12 +9,12 @@ Version 3.0 of the Repo
 - This is the first "non-developmental" release of the repository
 -  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-3.0.zip">Download MB-Repo (zip file)</a>
 
-Version 2.1 of the Repo
+Version 2.1 of the Repo - Developmental
 -  <a href="https://m-borsch.github.io/MB-KODI/repository.kodi.mb-2.1.zip">Download MB-Repo (zip file)</a>
 
 Minor Fix: Added icon to Order Favourites - Swap Version when listed in Repo
 
-Version 2.0 of the Repo
+Version 2.0 of the Repo - Developmental
 -  <a href="https://m-borsch.github.io/repository.kodi.mb/repository.kodi.mb-2.0.zip">Download MB-Repo (zip file)</a>
 
 Program Addon: "Order Favourites - Swap Version"
@@ -23,7 +23,7 @@ Program Addon: "Order Favourites - Swap Version"
 Program Addon: "Order Favourites"
 - an addon that allows you to easily re-order your favourites. Works in all skins including the Confluence skin.
 
-Version 1.0.0 of the Repo
+Version 1.0.0 of the Repo - Developmental
 - NO LONGER AVAILABLE
 Program Addon: "Order Favourites"
 - an addon that allows you to easily re-order your favourites. Works in all skins including the Confluence skin.
