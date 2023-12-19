@@ -3,7 +3,7 @@
 
 Repository of MB-Kodi Addons
 
-- The repo is located at https://m-borsch.github.io/MB-KODI/
+- The repo release webpage is located at https://m-borsch.github.io/MB-KODI/
 
 Version 3.0 of the Repo
 - This is the first "non-developmental" release of the repository
