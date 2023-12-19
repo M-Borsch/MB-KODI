@@ -37,7 +37,7 @@ All the information or content related to MB-Kodi is published in good faith and
 
 As a result, the owner, its partners, employees, or agents will not be held liable for any accruing loss or damage as a result of the use of, reliance on, and reference to our repository, including without limitation, any special or incidental, direct or indirect, and punitive, or consequential loss or damage whatsoever.
 
-We make every effort to keep the repository running smoothly. However, we take no legal responsibility and will not be liable if the website is temporarily unavailable or inaccessible due to technical malfunctions beyond our control.
+We make every effort to keep the repository running smoothly. However, we take no legal responsibility and will not be liable if the website, repository or any addons are unavailable or inaccessible due to technical malfunctions beyond our control.
 
 External Links Disclaimer
 
