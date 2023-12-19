@@ -5,6 +5,11 @@ Repository of MB-Kodi Addons
 
 - The repo is located at https://m-borsch.github.io/repository.kodi.mb/
 
+Version 2.1 of the Repo
+-  <a href="https://m-borsch.github.io/repository.kodi.mb/repository.kodi.mb-2.1.zip">Download MB-Repo (zip file)</a>
+
+Minor Fix: Added icon to Order Favourites - Swap Version when listed in Repo
+
 Version 2.0 of the Repo
 -  <a href="https://m-borsch.github.io/repository.kodi.mb/repository.kodi.mb-2.0.zip">Download MB-Repo (zip file)</a>
 
