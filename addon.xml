@@ -6,11 +6,11 @@
     <requires>
         <import addon="xbmc.addon" version="15.0.0"/>
     </requires>
-    <extension point="xbmc.addon.repository" name="repository.kodi.mb">
+    <extension point="xbmc.addon.repository" name="MB-KODI"
         <dir>	    
-            <info compressed="false">https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/main/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/main/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/M-Borsch/repository.kodi.mb/main/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/M-Borsch/MB-KODI/main/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/M-Borsch/MB-KODI/main/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/M-Borsch/MB-KODI/main/repo/zips/</datadir>
 	</dir>		
     </extension>
     <extension point="xbmc.addon.metadata">
@@ -40,8 +40,8 @@ Program Addons:
 			<fanart>fanart.jpg</fanart>
 		</assets>
         <license>GPLv2</license>
-        <website>http://borsch.ca</website>
-        <source>https://github.com/M-Borsch/repository.kodi.mb</source>
+        <website>https://github.com/M-Borsch/</website>
+        <source>https://github.com/M-Borsch/MB-KODI</source>
         <platform>all</platform>
     </extension>
 </addon>
