@@ -1,12 +1,15 @@
 # MB-KODI
-![icon](https://github.com/M-Borsch/repository.kodi.mb/blob/main/icon.png) 
+![icon](https://github.com/M-Borsch/MB-KODI/blob/main/icon.png) 
 
 Repository of MB-Kodi Addons
 
-- The repo is located at https://m-borsch.github.io/repository.kodi.mb/
+- The repo is located at https://m-borsch.github.io/MB-KODI/
+
+Version 3.0 of the Repo
+-  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-3.0.zip">Download MB-Repo (zip file)</a>
 
 Version 2.1 of the Repo
--  <a href="https://m-borsch.github.io/repository.kodi.mb/repository.kodi.mb-2.1.zip">Download MB-Repo (zip file)</a>
+-  <a href="https://m-borsch.github.io/MB-KODI/repository.kodi.mb-2.1.zip">Download MB-Repo (zip file)</a>
 
 Minor Fix: Added icon to Order Favourites - Swap Version when listed in Repo
 
