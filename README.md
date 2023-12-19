@@ -5,13 +5,16 @@
 
 - The repo release webpage is located at https://m-borsch.github.io/MB-KODI/
 
+> [!NOTE]
+> (Latest) - This is the latest version of the MB=KODI Repository
+
 Version 3.0 of the Repo
 - This is the first "non-developmental" release of the repository
 -  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-3.0.zip">Download MB-Repo (zip file)</a> (Latest)
-
 ----------------------------------------------------------------------------------------------------------
 > [!CAUTION]
 > These are Developmental releases and may not function propperly
+
 Version 2.1 of the Repo - Developmental
 -  <a href="https://m-borsch.github.io/MB-KODI/repository.kodi.mb-2.1.zip">Download MB-Repo (zip file)</a>
 
