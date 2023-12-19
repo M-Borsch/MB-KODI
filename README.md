@@ -61,7 +61,7 @@ MB-Kodi may contain testimonials by users of services or products that reflect s
 
 Changes and Amendments
 
-We reserve the exclusive right to change or modify this policy and its terms at any given time by posting the updated version on borsch.ca. Notification of those changes will be promptly posted on this site should we update, amend, or modify this document. The continued use of this website and its services after any such changes shall be construed to be consent to such changes. However, we advise you to frequently visit this disclaimer to ensure that you are up-to-date with the latest changes.
+We reserve the exclusive right to change or modify this policy and its terms at any given time by posting the updated version here. Notification of those changes will be promptly posted on this site should we update, amend, or modify this document. The continued use of this website and its services after any such changes shall be construed to be consent to such changes. However, we advise you to frequently visit this disclaimer to ensure that you are up-to-date with the latest changes.
 
 Consent
 
