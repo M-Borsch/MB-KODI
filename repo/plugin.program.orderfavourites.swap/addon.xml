@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.orderfavourites.swap" name="Order Favourites - Swap Version" version="1.0.0" provider-name="M-Borsch">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <news>
+[COLOR lavender][B]Order Favourites - Swap Version[/B][/COLOR]
+
+[B]1.0.0:[/B]
+- Original release of the "Swap" version of Order Favourites.
+    </news>
+    <description lang="en">
+Lets you reorder the entries in your Favourites by "swapping" entries
+Use this to organize your Favourites.
+    </description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
