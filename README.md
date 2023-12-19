@@ -10,6 +10,8 @@ Version 3.0 of the Repo
 -  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-3.0.zip">Download MB-Repo (zip file)</a> (Latest)
 
 ----------------------------------------------------------------------------------------------------------
+[!CAUTION]
+These are Developmental releases and may not function propperly
 Version 2.1 of the Repo - Developmental
 -  <a href="https://m-borsch.github.io/MB-KODI/repository.kodi.mb-2.1.zip">Download MB-Repo (zip file)</a>
 
