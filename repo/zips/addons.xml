@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.orderfavourites" name="Order Favourites" version="1.0" provider-name="M-Borsch,MB-K@DI,doko-desuka">
+<addon id="OrderFavourites" name="Order Favourites" version="1.0" provider-name="M-Borsch,MB-K@DI,doko-desuka">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
