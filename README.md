@@ -26,7 +26,7 @@ Version 2.1 of the MB-KODI Repo - Developmental
 Minor Fix: Added icon to Order Favourites - Swap Version when listed in Repo
 
 Version 2.0 of the MB-KODI Repo - Developmental
--  <a href="https://m-borsch.github.io/repository.kodi.mb/repository.kodi.mb-2.0.zip">Download MB-KODI (zip file)</a>
+-  NO LONGER AVAILABLE
 
 Program Addon: "Order Favourites - Swap Version"
 - an addon that allows you to easily re-order your favourites using the "swap" method. Works in all skins including the Confluence skin.
