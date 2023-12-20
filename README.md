@@ -70,7 +70,7 @@ Affiliates Disclaimer
 
 MB-KODI may contain links to affiliate sites, and we may receive an affiliate commission for any purchases made by you on those sites using such affiliate links.
 
-Please know that other sites may have different privacy policies and terms beyond our control when you leave our website. MB-Kodi does not monitor or investigate any transaction between you and any such third-party. We recommend checking the Privacy Policies of these sites and their Terms and Conditions before uploading any content or engaging in any business or transaction.
+Please know that other sites may have different privacy policies and terms beyond our control when you leave our website. MB-KODI does not monitor or investigate any transaction between you and any such third-party. We recommend checking the Privacy Policies of these sites and their Terms and Conditions before uploading any content or engaging in any business or transaction.
 
 Testimonial Disclaimer
 
