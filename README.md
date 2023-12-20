@@ -15,12 +15,12 @@ Version 3.0 of the Repo :sunglasses:
 > [!CAUTION]
 > These are Developmental releases and may not function propperly
 
-Version 2.1 of the Repo - Developmental
+Version 2.1 of the REPO - Developmental
 -  <a href="https://m-borsch.github.io/MB-KODI/repository.kodi.mb-2.1.zip">Download MB-REPO (zip file)</a>
 
 Minor Fix: Added icon to Order Favourites - Swap Version when listed in Repo
 
-Version 2.0 of the Repo - Developmental
+Version 2.0 of the REPO - Developmental
 -  <a href="https://m-borsch.github.io/repository.kodi.mb/repository.kodi.mb-2.0.zip">Download MB-REPO (zip file)</a>
 
 Program Addon: "Order Favourites - Swap Version"
@@ -50,7 +50,7 @@ General Disclaimer
 
 The information or content displayed on this website/repository/addon is the intellectual property of the owner of MB-KODI. You may not reuse, republish, or reprint such information or content without our consent.
 
-All the information or content related to MB-Kodi is published in good faith and solely for general information and educational purposes. They are not in any way intended to serve as a substitute for professional advice. Our website/repository/addon is provided on an "as is" basis, and the author makes no representations or warranties of any kind or in any form, whether express or implied, about the completeness, timeliness, reliability, availability, validity, suitability, and accuracy, or guarantee that there will be no losses, errors, and omissions with respect to the information, or content contained on this website. Any action taken in reliance on any such information or content provided is strictly at your own risk.
+All the information or content related to MB-KODI is published in good faith and solely for general information and educational purposes. They are not in any way intended to serve as a substitute for professional advice. Our website/repository/addon is provided on an "as is" basis, and the author makes no representations or warranties of any kind or in any form, whether express or implied, about the completeness, timeliness, reliability, availability, validity, suitability, and accuracy, or guarantee that there will be no losses, errors, and omissions with respect to the information, or content contained on this website. Any action taken in reliance on any such information or content provided is strictly at your own risk.
 
 As a result, the owner, its partners, employees, or agents will not be held liable for any accruing loss or damage as a result of the use of, reliance on, and reference to our repository, including without limitation, any special or incidental, direct or indirect, and punitive, or consequential loss or damage whatsoever.
 
