@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<settings>
-    <category label="Behavior">
-        <setting id="reorderingMethod" label="Reordering Method" type="enum" default="0"
-                 values="Swap A and B|Insert A before B|Insert A after B"/>
-    </category>
-</settings>
