@@ -2,7 +2,7 @@
 <addon id="MB-KODI"
         name="MB-Kodi Repository"
         version="3.0" 
-        provider-name="M-Borsch">
+        provider-name="M-Borsch,MB-K@DI">
     <requires>
         <import addon="xbmc.addon" version="15.0.0"/>
     </requires>
