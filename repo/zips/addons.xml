@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.orderfavourites.insert" name="Order Favourites - Insert" version="1.0" provider-name="M-Borsch">
+<addon id="plugin.program.orderfavourites.insert" name="Order Favourites - Insert" version="1.0" provider-name="M-Borsch,MB-K@DI,doko-desuka">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -31,7 +31,7 @@ Use this to quickly and easily organize your Favourites.
     </assets>
   </extension>
 </addon>
-<addon id="plugin.program.orderfavourites.swap" name="Order Favourites - Swap" version="1.1" provider-name="M-Borsch">
+<addon id="plugin.program.orderfavourites.swap" name="Order Favourites - Swap" version="1.1" provider-name="M-Borsch,MB-K@DI,doko-desuka">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
