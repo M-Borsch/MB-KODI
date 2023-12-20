@@ -10,18 +10,18 @@
 
 Version 3.0 of the Repo :sunglasses:
 - This is the first "non-developmental" release of the repository
--  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-3.0.zip">Download MB-Repo (zip file)</a> (Latest)
+-  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-3.0.zip">Download MB-REPO (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
 > [!CAUTION]
 > These are Developmental releases and may not function propperly
 
 Version 2.1 of the Repo - Developmental
--  <a href="https://m-borsch.github.io/MB-KODI/repository.kodi.mb-2.1.zip">Download MB-Repo (zip file)</a>
+-  <a href="https://m-borsch.github.io/MB-KODI/repository.kodi.mb-2.1.zip">Download MB-REPO (zip file)</a>
 
 Minor Fix: Added icon to Order Favourites - Swap Version when listed in Repo
 
 Version 2.0 of the Repo - Developmental
--  <a href="https://m-borsch.github.io/repository.kodi.mb/repository.kodi.mb-2.0.zip">Download MB-Repo (zip file)</a>
+-  <a href="https://m-borsch.github.io/repository.kodi.mb/repository.kodi.mb-2.0.zip">Download MB-REPO (zip file)</a>
 
 Program Addon: "Order Favourites - Swap Version"
 - an addon that allows you to easily re-order your favourites using the "swap" method. Works in all skins including the Confluence skin.
@@ -29,7 +29,7 @@ Program Addon: "Order Favourites - Swap Version"
 Program Addon: "Order Favourites"
 - an addon that allows you to easily re-order your favourites. Works in all skins including the Confluence skin.
 
-Version 1.0.0 of the Repo - Developmental
+Version 1.0.0 of the REPO - Developmental
 - NO LONGER AVAILABLE
 Program Addon: "Order Favourites"
 - an addon that allows you to easily re-order your favourites. Works in all skins including the Confluence skin.
@@ -74,7 +74,7 @@ Please know that other sites may have different privacy policies and terms beyon
 
 Testimonial Disclaimer
 
-MB-Kodi may contain testimonials by users of services or products that reflect such users' experiences and opinions. However, such experiences, opinions, and thoughts are personal to such users and do not necessarily represent all other users of our services or products. Testimonials are displayed verbatim except in grammatical and typing errors and long and extraneous information. Please be aware that the views or opinions in such testimonials belong to the user and do not represent the views of MB-KODI. As a result, the testimonials should not be construed as representing the adequacy, reliability, validity, and availability of such services or products.
+MB-KODI may contain testimonials by users of services or products that reflect such users' experiences and opinions. However, such experiences, opinions, and thoughts are personal to such users and do not necessarily represent all other users of our services or products. Testimonials are displayed verbatim except in grammatical and typing errors and long and extraneous information. Please be aware that the views or opinions in such testimonials belong to the user and do not represent the views of MB-KODI. As a result, the testimonials should not be construed as representing the adequacy, reliability, validity, and availability of such services or products.
 
 Changes and Amendments
 
