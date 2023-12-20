@@ -8,9 +8,14 @@
 > [!NOTE]
 > (Latest) - This is the latest version of the MB-KODI Repository
 
-Version 3.0 of the MB-KODI Repo :sunglasses:
+Version 3.1 of the MB-KODI Repo :sunglasses:
+- This version includes the new version of Order Favourites Program Addon that uses configuration file for insert/swap method
+-  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-3.1.zip">Download MB-KODI 3.1 (zip file)</a> (Latest)
+----------------------------------------------------------------------------------------------------------
+Version 3.0 of the MB-KODI Repo
 - This is the first "non-developmental" release of the repository
--  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-3.0.zip">Download MB-KODI (zip file)</a> (Latest)
+- This relase has 2 separate Order Favourite Addons (one for Insert and one for Swap)
+-  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-3.0.zip">Download MB-KODI 3.0 (zip file)</a>
 ----------------------------------------------------------------------------------------------------------
 > [!CAUTION]
 > These are Developmental releases and may not function propperly
