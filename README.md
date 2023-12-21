@@ -40,6 +40,7 @@ Program Addon: "Order Favourites"
 
 Version 1.0.0 of the MB=KODI Repo - Developmental
 - NO LONGER AVAILABLE
+  
 Program Addon: "Order Favourites"
 - an addon that allows you to easily re-order your favourites. Works in all skins including the Confluence skin.
 
