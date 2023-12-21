@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="OrderFavourites" name="Order Favourites" version="1.0" provider-name="M-Borsch,MB-K@DI,doko-desuka">
+<addon id="Insert-Swap-Kodi-Favourites" name="Insert/Swap Kodi Favourites" version="1.0" provider-name="M-Borsch,MB-K@DI">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -9,7 +9,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <news>
-      [COLOR lavender][B]Order Favourites[/B][/COLOR]
+      [COLOR lavender][B]Insert/Swap Kodi Favourites[/B][/COLOR]
       
       [B]1.0:[/B]
       - Initial release with configuration option to set to swap or insert.
@@ -21,7 +21,7 @@ Reorder your Favourites made easy!
 Lets you reorder the entries in your [B]Favourites[/B] by either "swapping" or "inserting".
 
 Select "A" then "B" 
-  Swap:   "A" will be placed where "B" is and vice versa.
+   Swap: "A" will be placed where "B" is and vice versa.
   Insert: "A" will be placed in front/after "B" in the list.
 
 Set this option in the configuration screen.
