@@ -12,7 +12,7 @@ Version 4.0 of the MB-KODI Repo :sunglasses:
 - This version includes the new version of Insert/Swap Kodi Favourites Program Addon that uses configuration file for insert/swap method and is rebranded to avoid confusion with original Addon
 -  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-4.0.zip">Download MB-KODI 4.0 (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
-Version 3.1 of the MB-KODI Repo :sunglasses:
+Version 3.1 of the MB-KODI Repo
 - This version includes the new version of Order Favourites Program Addon that uses configuration file for insert/swap method
 -  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-3.1.zip">Download MB-KODI 3.1 (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
