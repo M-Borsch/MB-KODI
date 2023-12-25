@@ -8,9 +8,13 @@
 > [!NOTE]
 > (Latest) - This is the latest version of the MB-KODI Repository
 
+Version 4.1 of the MB-KODI Repo :sunglasses:
+- This version includes the new version of [B]"Insert/Swap Kodi Favourites"[/B] Program Addon that allows users to adjust the label Font size
+-  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-4.1.zip">Download MB-KODI 4.1 (zip file)</a> (Latest)
+----------------------------------------------------------------------------------------------------------
 Version 4.0 of the MB-KODI Repo :sunglasses:
 - This version includes the new version of Insert/Swap Kodi Favourites Program Addon that uses configuration file for insert/swap method and is rebranded to avoid confusion with original Addon
--  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-4.0.zip">Download MB-KODI 4.0 (zip file)</a> (Latest)
+-  NO LONGER AVAILABLE
 ----------------------------------------------------------------------------------------------------------
 Version 3.1 of the MB-KODI Repo
 - This version includes the new version of Order Favourites Program Addon that uses configuration file for insert/swap method
