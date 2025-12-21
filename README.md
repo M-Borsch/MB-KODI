@@ -8,9 +8,13 @@
 > [!NOTE]
 > (Latest) - This is the latest version of the MB-KODI Repository
 
-Version 4.2 of the MB-KODI Repo :sunglasses:
+Version 4.3 of the MB-KODI Repo :sunglasses:
 - This version includes the new version of "Insert/Swap Kodi Favourites" Program Addon that allows users to adjust the thumbnail size
--  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-4.2.zip">Download MB-KODI 4.2 (zip file)</a> (Latest)
+-  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-4.3.zip">Download MB-KODI 4.3 (zip file)</a> (Latest)
+----------------------------------------------------------------------------------------------------------
+Version 4.2 of the MB-KODI Repo
+- This version includes the new version of "Insert/Swap Kodi Favourites" Program Addon that allows users to adjust the thumbnail size
+-  NO LONGER AVAILABLE
 ----------------------------------------------------------------------------------------------------------
    Version 4.1 of the MB-KODI Repo
 - This version includes the new version of "Insert/Swap Kodi Favourites" Program Addon that allows users to adjust the label Font size
