@@ -72,7 +72,7 @@ General Disclaimer
 
 The information or content displayed on this website/repository/addon is the intellectual property of the owner of MB-KODI. You may not reuse, republish, or reprint such information or content without our consent.
 
-All the information or content related to MB-KODI is published in good faith and solely for general information and educational purposes. They are not in any way intended to serve as a substitute for professional advice. Our website/repository/addon is provided on an "as is" basis, and the author makes no representations or warranties of any kind or in any form, whether express or implied, about the completeness, timeliness, reliability, availability, validity, suitability, and accuracy, or guarantee that there will be no losses, errors, and omissions with respect to the information, or content contained on this website. Any action taken in reliance on any such information or content provided is strictly at your own risk.
+All the information or content related to MB-KODI is published in good faith and solely for general information and educational purposes. They are not in any way intended to serve as a substitute for professional advice. Our website/repository/addon is provided on an "as is" basis, and the author makes no representations or warranties of any kind or in any form, whether express or implied, about the completeness, timeliness, reliability, availability, validity, suitability, and accuracy, or guarantee that there will be no losses, errors, and omissions with respect to the information, or content contained on this website/repository/addon. Any action taken in reliance on any such information or content provided is strictly at your own risk.
 
 As a result, the owner, its partners, employees, or agents will not be held liable for any accruing loss or damage as a result of the use of, reliance on, and reference to our repository, including without limitation, any special or incidental, direct or indirect, and punitive, or consequential loss or damage whatsoever.
 
@@ -80,7 +80,7 @@ We make every effort to keep the repository running smoothly. However, we take n
 
 External Links Disclaimer
 
-Through our repository, you can follow links to visit external websites, repositories, addons or content originating from third-parties that are not in any way affiliated with MB-KODI. While we try to provide only quality links to relevant and ethical websites, we have no control over the nature, content, accuracy, adequacy, reliability, validity, and availability of these sites. Accordingly, the inclusion of such links to other websites, repsitories, addons does not in any way imply a recommendation or endorsement for the services or products contained on those sites. Also, owners and content may change without notice and may occur before we have the opportunity to remove broken or harmful links.
+Through our repository, you can follow links to visit external websites, repositories, addons or content originating from third-parties that are not in any way affiliated with MB-KODI. While we try to provide only quality links to relevant and ethical websites, we have no control over the nature, content, accuracy, adequacy, reliability, validity, and availability of these sites. Accordingly, the inclusion of such links to other websites, repositories, addons does not in any way imply a recommendation or endorsement for the services or products contained on those sites. Also, owners and content may change without notice and may occur before we have the opportunity to remove broken or harmful links.
 
 Professional Disclaimer
 
@@ -92,7 +92,7 @@ Affiliates Disclaimer
 
 MB-KODI may contain links to affiliate sites, and we may receive an affiliate commission for any purchases made by you on those sites using such affiliate links.
 
-Please know that other sites may have different privacy policies and terms beyond our control when you leave our website. MB-KODI does not monitor or investigate any transaction between you and any such third-party. We recommend checking the Privacy Policies of these sites and their Terms and Conditions before uploading any content or engaging in any business or transaction.
+Please know that other sites may have different privacy policies and terms beyond our control when you leave our website/repository/addon. MB-KODI does not monitor or investigate any transaction between you and any such third-party. We recommend checking the Privacy Policies of these sites and their Terms and Conditions before uploading any content or engaging in any business or transaction.
 
 Testimonial Disclaimer
 
