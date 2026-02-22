@@ -1,9 +1,31 @@
 # MB-KODI
 ![icon](https://github.com/M-Borsch/MB-KODI/blob/main/icon.png) 
 
-# Repository of MB-KODI Addons
+This MB-KODI repository (https://m-borsch.github.io/MB-KODI or the mirror at http://borsch.myqnapcloud.com:8089/MB-KODI) is published as a Kodi repo that you directly install into Kodi. It serves up publicly available Kodi Addons supported by MB-KODI.
 
-- The repo release webpage is located at https://m-borsch.github.io/MB-KODI/
+  <p>Supported by MB-KODI ✔️</p>
+
+## Installation Instructions
+> 
+>  1 - In Kodi use the "File Manager" to add a new 'source' pointing to either of these sources:
+> 
+>    http://borsch.myqnapcloud.com:8089/MB-KODI
+> 
+>    https://m-borsch.github.io/MB-KODI
+> 
+>  2 - In Kodi use the "Addons" - "Install from zip" option to install the MB-KODI repositoriy utilizing the 'source' that you added in the previous step
+> 
+>  3 - In Kodi use the "Addons" - "Install from repo" option to install the assocated 'Addon' from the MB-KODI repository that you added in the previous step
+> 
+
+## MB-KODI Repository
+<a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-create-a-github-kodi-addon="><b><i></i></b><i>Article on how to build a Kodi Repository and an Addon on borsch.ca</i></a>
+
+Use the "Manage Kodi Favourites" Program Addon included in the MB-KODI repository to easilly sort (i.e. alphabetize), insert/swap, add a prefix or sufix and andd color to item in your Kodi Favourites list.
+
+Questions/Comments/thanks - Send an email to MB-KODI
+
+# Repository of MB-KODI Addons
 
 > [!NOTE]
 > (Latest) - This is the latest version of the MB-KODI Repository
