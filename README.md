@@ -1,4 +1,6 @@
 # MB-KODI
+This Kodi Program Repository provides Kodi Addons that are supported by MB-KODI ✔️
+
 ![icon](https://github.com/M-Borsch/MB-KODI/blob/main/icon.png) 
 
 This MB-KODI repository (https://m-borsch.github.io/MB-KODI or the mirror at http://borsch.myqnapcloud.com:8089/MB-KODI) is published as a Kodi repo that you directly install into Kodi. It serves up publicly available Kodi Addons supported by MB-KODI.
