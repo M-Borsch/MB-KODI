@@ -1,5 +1,5 @@
 # MB-KODI
-This Kodi Program Repository provides Kodi Addons that are supported by MB-KODI ✔️
+This Kodi Program Repository provides Kodi Addons that are supported by MB-KODI
 
 ![icon](https://github.com/M-Borsch/MB-KODI/blob/main/icon.png) 
 
@@ -8,7 +8,7 @@ This MB-KODI repository (https://m-borsch.github.io/MB-KODI or the mirror at htt
   <p>Supported by MB-KODI ✔️</p>
 
 ## Installation Instructions
-> 
+
 >  1 - In Kodi use the "File Manager" to add a new 'source' pointing to either of these sources:
 > 
 >    http://borsch.myqnapcloud.com:8089/MB-KODI
@@ -21,6 +21,7 @@ This MB-KODI repository (https://m-borsch.github.io/MB-KODI or the mirror at htt
 > 
 
 ## MB-KODI Repository
+
 <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-create-a-github-kodi-addon="><b><i></i></b><i>Article on how to build a Kodi Repository and an Addon on borsch.ca</i></a>
 
 Use the "Manage Kodi Favourites" Program Addon included in the MB-KODI repository to easilly sort (i.e. alphabetize), insert/swap, add a prefix or sufix and andd color to item in your Kodi Favourites list.
@@ -37,10 +38,11 @@ Version 4.3 of the MB-KODI Repo :sunglasses:
 -  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-4.3.zip">Download MB-KODI 4.3 (zip file)</a> (Latest)
 
 ### Reference Articles availiable at: <a href="http://borsch.ca">borsch.ca</a>
+
 - <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-create-a-github-kodi-addon?highlight=WyJrb2RpIl0="><b><i></i></b><i>Article on how to build a Kodi Repository and an Addon on borsch.ca</i></a>
-<br />
+
 Questions/Comments/thanks - <a href="mailto:kodi@borsch.ca">Send an email to MB-KODI</a><br />
-<hr>
+
 <p><img class="an1" draggable="false" src="https://fonts.gstatic.com/s/e/notoemoji/15.1/26a0_fe0f/72.png" alt="âš ï¸" width="20" loading="lazy" data-emoji="âš ï¸" aria-label="âš ï¸"> No Copyright infringement intended <img class="an1" draggable="false" src="https://fonts.gstatic.com/s/e/notoemoji/15.1/274c/72.png" alt="âŒ" width="20" loading="lazy" data-emoji="âŒ" aria-label="âŒ"> <a href="mailto:kodi@borsch.ca">Send an email to MB-KODI</a> to fix / Remove. (<span style="font-size: 8px;"><em>NAS</em></span>)</p>
 <hr>
 
