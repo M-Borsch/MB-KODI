@@ -35,52 +35,15 @@ Questions/Comments/thanks - Send an email to MB-KODI
 Version 4.3 of the MB-KODI Repo :sunglasses:
 - This version includes the new version of "Insert/Swap Kodi Favourites" Program Addon that allows users to adjust the thumbnail size
 -  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-4.3.zip">Download MB-KODI 4.3 (zip file)</a> (Latest)
-----------------------------------------------------------------------------------------------------------
-Version 4.2 of the MB-KODI Repo
-- This version includes the new version of "Insert/Swap Kodi Favourites" Program Addon that allows users to adjust the thumbnail size
--  NO LONGER AVAILABLE
-----------------------------------------------------------------------------------------------------------
-   Version 4.1 of the MB-KODI Repo
-- This version includes the new version of "Insert/Swap Kodi Favourites" Program Addon that allows users to adjust the label Font size
--  NO LONGER AVAILABLE
-----------------------------------------------------------------------------------------------------------
-Version 4.0 of the MB-KODI Repo
-- This version includes the new version of Insert/Swap Kodi Favourites Program Addon that uses configuration file for insert/swap method and is rebranded to avoid confusion with original Addon
--  NO LONGER AVAILABLE
-----------------------------------------------------------------------------------------------------------
-Version 3.1 of the MB-KODI Repo
-- This version includes the new version of Order Favourites Program Addon that uses configuration file for insert/swap method
--  NO LONGER AVAILABLE
-----------------------------------------------------------------------------------------------------------
-Version 3.0 of the MB-KODI Repo
-- This is the first "non-developmental" release of the repository
-- This relase has 2 separate Order Favourite Addons (one for Insert and one for Swap)
--  NO LONGER AVAILABLE
-----------------------------------------------------------------------------------------------------------
-> [!CAUTION]
-> These are Developmental releases and may not function propperly
 
-Version 2.1 of the MB-KODI Repo - Developmental
-- NO LONGER AVAILABLE
+### Reference Articles availiable at: <a href="http://borsch.ca">borsch.ca</a>
+- <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-create-a-github-kodi-addon?highlight=WyJrb2RpIl0="><b><i></i></b><i>Article on how to build a Kodi Repository and an Addon on borsch.ca</i></a>
+<br />
+Questions/Comments/thanks - <a href="mailto:kodi@borsch.ca">Send an email to MB-KODI</a><br />
+<hr>
+<p><img class="an1" draggable="false" src="https://fonts.gstatic.com/s/e/notoemoji/15.1/26a0_fe0f/72.png" alt="âš ï¸" width="20" loading="lazy" data-emoji="âš ï¸" aria-label="âš ï¸"> No Copyright infringement intended <img class="an1" draggable="false" src="https://fonts.gstatic.com/s/e/notoemoji/15.1/274c/72.png" alt="âŒ" width="20" loading="lazy" data-emoji="âŒ" aria-label="âŒ"> <a href="mailto:kodi@borsch.ca">Send an email to MB-KODI</a> to fix / Remove. (<span style="font-size: 8px;"><em>NAS</em></span>)</p>
+<hr>
 
-Minor Fix: Added icon to Order Favourites - Swap Version when listed in Repo
-
-Version 2.0 of the MB-KODI Repo - Developmental
--  NO LONGER AVAILABLE
-
-Program Addon: "Order Favourites - Swap Version"
-- an addon that allows you to easily re-order your favourites using the "swap" method. Works in all skins including the Confluence skin.
-
-Program Addon: "Order Favourites"
-- an addon that allows you to easily re-order your favourites. Works in all skins including the Confluence skin.
-
-Version 1.0.0 of the MB=KODI Repo - Developmental
-- NO LONGER AVAILABLE
-  
-Program Addon: "Order Favourites"
-- an addon that allows you to easily re-order your favourites. Works in all skins including the Confluence skin.
-
-------------------------------------------------------------------------------------------------------------------
 > [!IMPORTANT]
 > MB-KODI Terms and Conditions / Dislaimer
 
