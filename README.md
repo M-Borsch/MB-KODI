@@ -35,7 +35,8 @@ Questions/Comments/thanks - Send an email to MB-KODI
 
 Version 4.3 of the MB-KODI Repo :sunglasses:
 - This version includes the new version of "Insert/Swap Kodi Favourites" Program Addon that allows users to adjust the thumbnail size
--  <a href="https://m-borsch.github.io/MB-KODI/MB-KODI-4.3.zip">Download MB-KODI 4.3 (zip file)</a> (Latest)
+
+<a href="MB-KODI-4.3.zip">MB-KODI-4.3.zip</a> (Latest)
 
 ### Reference Articles availiable at: <a href="http://borsch.ca">borsch.ca</a>
 
