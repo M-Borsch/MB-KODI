@@ -72,6 +72,7 @@ Use this to quickly and easily organize your Favourites.
     </assets>
   </extension>
 </addon>
+  
   <addon id="Insert-Swap-Kodi-Favourites" name="Insert/Swap Kodi Favourites" version="1.0" provider-name="M-Borsch,MB-K@DI">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -97,6 +98,43 @@ Select "A" then "B"
   Insert: "A" will be placed in front/after "B" in the list.
 
 Set this option in the configuration screen.
+
+Use this to quickly and easily organize your Favourites.
+    </description>
+    <platform>all</platform>
+    <assets>
+        <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="Nanage-Kodi-Favourites" name="[COLOR blue]Manage Kodi Favourites[/COLOR]" version="2.0" provider-name="M-Borsch,MB-K@DI">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <news>
+      [COLOR lavender][B]Manage Kodi Favourites[/B][/COLOR]
+      [B]2.0:[/B]
+      - Initial Release.
+      - Sort, Insert/Swap, Add a Prefix, Suffix and Colors to Kodi Favourites
+      - Reload Kodi Profile
+      - Overwrite Kodi Favourites (favourites.xml) 
+    </news>
+    <summary>
+Reorder (Sort, Insert/Swap) your Favourites made easy! Graphical editor of Kodi Favurites with ability to add a Prefix, Suffix and Colors to items.
+    </summary>
+    <description lang="en">
+Lets you reorder the entries in your [B]Favourites[/B] by either "swapping" or "inserting" or using the built-in "sort" function.
+
+Select "A" then "B" 
+   Swap: "A" will be placed where "B" is and vice versa.
+  Insert: "A" will be placed in front/after "B" in the list.
+
+Set options in the configuration screen.
 
 Use this to quickly and easily organize your Favourites.
     </description>
