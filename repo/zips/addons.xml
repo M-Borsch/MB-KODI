@@ -140,7 +140,7 @@ Use this to quickly and easily organize your Favourites.
     </description>
     <platform>all</platform>
     <assets>
-        <icon>icon.png</icon>
+        <icon>Manage-Kodi-Fav-icon.png</icon>
     </assets>
   </extension>
 </addon>
