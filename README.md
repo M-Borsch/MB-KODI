@@ -25,11 +25,11 @@ This MB-KODI repository (https://m-borsch.github.io/MB-KODI or the mirror at htt
 > [!NOTE]
 > (Latest) - This is the latest version of the MB-KODI Repository
 
-Version 4.3 of the MB-KODI Repo :sunglasses:
+Version 4.4 of the MB-KODI Repo :sunglasses:
 - This version includes the new version of "Insert/Swap Kodi Favourites" Program Addon called "Manage Kodi Favourites"
 - Use the "Manage Kodi Favourites" Program Addon to associated sort (i.e. alphabetize), insert/swap, add a prefix or suffix and and color to item in your Kodi Favourites list.
 
-<a href="MB-KODI-4.3.zip">MB-KODI-4.3.zip</a> (Latest)
+<a href="MB-KODI-4.4.zip">MB-KODI-4.4.zip</a> (Latest)
 
 <p>Supported by MB-KODI ✔️</p>
 
