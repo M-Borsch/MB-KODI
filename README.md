@@ -15,9 +15,9 @@ This MB-KODI repository (https://m-borsch.github.io/MB-KODI or the mirror at htt
 > 
 >    https://m-borsch.github.io/MB-KODI
 > 
->  2 - In Kodi use the "Addons" - "Install from zip" option to install the MB-KODI repositoriy utilizing the 'source' that you added in the previous step
+>  2 - In Kodi use the "Addons" - "Install from zip" option to install the MB-KODI repository utilizing the 'source' that you added in the previous step
 > 
->  3 - In Kodi use the "Addons" - "Install from repo" option to install the assocated 'Addon' from the MB-KODI repository that you added in the previous step
+>  3 - In Kodi use the "Addons" - "Install from repo" option to install the associated 'Addon' from the MB-KODI repository that you added in the previous step
 > 
 
 # Repository of MB-KODI Addons
@@ -27,13 +27,13 @@ This MB-KODI repository (https://m-borsch.github.io/MB-KODI or the mirror at htt
 
 Version 4.3 of the MB-KODI Repo :sunglasses:
 - This version includes the new version of "Insert/Swap Kodi Favourites" Program Addon called "Manage Kodi Favourites"
-- Use the "Manage Kodi Favourites" Program Addon to easilly sort (i.e. alphabetize), insert/swap, add a prefix or sufix and andd color to item in your Kodi Favourites list.
+- Use the "Manage Kodi Favourites" Program Addon to associated sort (i.e. alphabetize), insert/swap, add a prefix or suffix and and color to item in your Kodi Favourites list.
 
 <a href="MB-KODI-4.3.zip">MB-KODI-4.3.zip</a> (Latest)
 
 <p>Supported by MB-KODI ✔️</p>
 
-### Reference Articles availiable at: <a href="http://borsch.ca">borsch.ca</a>
+### Reference Articles available at: <a href="http://borsch.ca">borsch.ca</a>
 
 - <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-create-a-github-kodi-addon?highlight=WyJrb2RpIl0="><b><i></i></b><i>Article on how to build a Kodi Repository and an Addon on borsch.ca</i></a>
 
@@ -45,7 +45,7 @@ Questions/Comments/thanks - <a href="mailto:kodi@borsch.ca">Send an email to MB-
 <hr>
 
 > [!IMPORTANT]
-> MB-KODI Terms and Conditions / Dislaimer
+> MB-KODI Terms and Conditions / Disclaimer
 
 Information published on or related to MB-KODI® repository is accurate and correct to our knowledge, however, there may be omissions, errors, or mistakes. Content published on or related to MB-KODI is for informational purposes only. By continuing to use these services, you agree to the following Terms and Conditions. 
 
