@@ -118,6 +118,8 @@ Use this to quickly and easily organize your Favourites.
   <extension point="xbmc.addon.metadata">
     <news>
       [COLOR lavender][B]Manage Kodi Favourites[/B][/COLOR]
+      [B]2.5:[/B]
+      - Add ability to Upload/Download Favourites file (favourites.xml)
       [B]2.4:[/B]
       - Bug Fix on reload of current Prefix / Suffix on Dialog callup
       - Add prefix and suffix sort filters
