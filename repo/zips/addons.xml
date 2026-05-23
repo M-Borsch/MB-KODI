@@ -108,7 +108,7 @@ Use this to quickly and easily organize your Favourites.
   </extension>
 </addon>
 
-<addon id="Manage-Kodi-Favourites" name="[COLOR blue]Manage Kodi Favourites[/COLOR]" version="2.6" provider-name="M-Borsch,MB-K@DI">
+<addon id="Manage-Kodi-Favourites" name="[COLOR blue]Manage Kodi Favourites[/COLOR]" version="2.7" provider-name="M-Borsch,MB-K@DI">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -118,6 +118,8 @@ Use this to quickly and easily organize your Favourites.
   <extension point="xbmc.addon.metadata">
     <news>
       [COLOR lavender][B]Manage Kodi Favourites[/B][/COLOR]
+      [B]2.7:[/B]
+      - Added Filters
       [B]2.6:[/B]
       - Adjust Menu items and Configuration tabs
       [B]2.5:[/B]
@@ -138,7 +140,7 @@ Use this to quickly and easily organize your Favourites.
       - Overwrite Kodi Favourites (favourites.xml) 
     </news>
     <summary>
-Reorder (Sort, Insert/Swap) your Favourites made easy! Graphical editor of Kodi Favurites with ability to add a Prefix, Suffix and Colors to items.
+Reorder (Sort, Insert/Swap) your Favourites made easy! Graphical editor of Kodi Favurites with ability to add a Prefix, Suffix, Filter and Colors to items.
     </summary>
     <description lang="en">
 Lets you reorder the entries in your [B]Favourites[/B] by either "swapping" or "inserting" or using the built-in "sort" function.
