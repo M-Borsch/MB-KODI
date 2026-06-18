@@ -29,7 +29,7 @@ Latest Version of the MB-KODI Repo :sunglasses:
 - This version includes the new version of "Insert/Swap Kodi Favourites" Program Addon called "Manage Kodi Favourites"
 - Use the "Manage Kodi Favourites" Program Addon to associated sort (i.e. alphabetize), insert/swap, add a prefix or suffix and and color to item in your Kodi Favourites list.
 
-<a href="MB-KODI-4.9.zip">MB-KODI-4.9.zip</a> (Latest)
+<a href="MB-KODI-5.0.zip">MB-KODI-5.0.zip</a> (Latest)
 
 <p>Supported by MB-KODI ✔️</p>
 
