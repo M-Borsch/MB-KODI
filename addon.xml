@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="MB-KODI"
         name="[COLOR blue]MB-Kodi Repository[/COLOR]"
-        version="4.9" 
+        version="5.0" 
         provider-name="M-Borsch,MB-K@DI">
     <requires>
         <import addon="xbmc.addon" version="15.0.0"/>
@@ -24,6 +24,8 @@ Program Addons:
 	<disclaimer>Information published on or related to MB-Kodi® repository is accurate and correct to our knowledge, however, there may be omissions, errors, or mistakes. Content published on or related to MB-Kodi is for informational purposes only. By continuing to use these services, you agree to the Terms and Conditions outlined in the ReadMe file. https://github.com/M-Borsch/repository.kodi.mb/blob/main/README.md</disclaimer>
         <news>
         [COLOR lavender][B]M-Borsch Repository[/B][/COLOR]
+[B]5.0:[/B]
+- Update to Manage Kodi Favourites Program Addon adding the ability to download Kodi log file.
 [B]4.9:[/B]
 - Update to Manage Kodi Favourites Program Addon adding the ability to add Filters.
 [B]4.8:[/B]
