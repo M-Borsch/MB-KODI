@@ -108,7 +108,7 @@ Use this to quickly and easily organize your Favourites.
   </extension>
 </addon>
 
-<addon id="Manage-Kodi-Favourites" name="[COLOR blue]Manage Kodi Favourites[/COLOR]" version="2.7" provider-name="M-Borsch,MB-K@DI">
+<addon id="Manage-Kodi-Favourites" name="[COLOR blue]Manage Kodi Favourites[/COLOR]" version="2.9" provider-name="M-Borsch,MB-K@DI">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -118,6 +118,8 @@ Use this to quickly and easily organize your Favourites.
   <extension point="xbmc.addon.metadata">
     <news>
       [COLOR lavender][B]Manage Kodi Favourites[/B][/COLOR]
+      [B]2.9:[/B]
+      - Added ability to download Kodi log file
       [B]2.7:[/B]
       - Added Filters
       [B]2.6:[/B]
